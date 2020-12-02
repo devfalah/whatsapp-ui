@@ -58,6 +58,7 @@ class _WhatsAppHomeState extends State<WhatsAppHome>
           ],
         ),
         floatingActionButton: FloatingActionButton(
+          onPressed: () {},
           child: Icon(
             Icons.message,
             color: Colors.white,
